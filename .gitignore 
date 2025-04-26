@@ -7,3 +7,22 @@ faculty_page1.csv
 ra_candidates.csv
 ra_with_lab.csv
 target_labs.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+*.log
+
+# VSCode or PyCharm project files
+.idea/
+*.iml
+
+# MacOS垃圾文件
+.DS_Store
+
+# CSV output files
+*.csv
+
+# Virtual environment
+.venv/
