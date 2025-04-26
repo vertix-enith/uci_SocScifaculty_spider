@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.DS_Store
+faculty_page1.csv
+ra_candidates.csv
+ra_with_lab.csv
+target_labs.csv
